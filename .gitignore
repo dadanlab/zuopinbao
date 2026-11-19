@@ -1,0 +1,9 @@
+# 用户自己的材料和生成出来的网页，不进仓库
+portfolio.json
+portfolio-intake.md
+shots/
+*-自己看.html
+*-发给HR.html
+*.pdf
+.DS_Store
+__pycache__/
