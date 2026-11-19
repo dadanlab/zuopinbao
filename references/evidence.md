@@ -55,8 +55,8 @@
 
 ```json
 {
-  "site": "小林的个人作品堡",
-  "owner": "小林",
+  "site": "小周的个人作品堡",
+  "owner": "小周",
   "pronoun": "TA",
   "role": "新媒体运营",
   "style": "晨雾紫",
