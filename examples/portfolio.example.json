@@ -1,0 +1,212 @@
+{
+  "version": 1,
+  "site": "小周的个人作品堡",
+  "owner": "小周",
+  "pronoun": "TA",
+  "role": "新媒体运营",
+  "style": "晨雾紫",
+  "jdCount": 10,
+  "tagline": "【示例】中文系应届生，运营学院公众号一学期，关注从 2300 涨到 5100。",
+  "audience": "self",
+  "theme": "dawn",
+  "about": "【示例】中文系应届生，运营过学院公众号一学期，自己做小红书账号 30 天，喜欢把复杂的事讲清楚。",
+  "aboutSource": "示例",
+  "links": [
+    {
+      "label": "作品集（示例链接）",
+      "url": "https://example.com/"
+    }
+  ],
+  "top": [
+    "内容策划与写作",
+    "账号从 0 到 1",
+    "活动策划"
+  ],
+  "footnote": "示例数据 · 人物和经历都是编的",
+  "projects": [
+    {
+      "id": "gzh",
+      "kind": "project",
+      "name": "学院公众号运营",
+      "result": "一学期关注从 2300 涨到 5100",
+      "role": "负责选题、写稿和排期，每周复盘后台数据。",
+      "points": [
+        "排期、选题、写稿、发布一条龙。",
+        "每周看后台数据，停掉打开率最低的栏目。"
+      ],
+      "results": [
+        "一学期关注从 2300 涨到 5100"
+      ],
+      "source": "示例"
+    }
+  ],
+  "regions": [
+    {
+      "name": "技能",
+      "icon": "copy",
+      "cards": [
+        {
+          "name": "内容策划与写作",
+          "state": "lit",
+          "need": 9,
+          "weight": 9,
+          "highlights": [
+            {
+              "ref": "gzh",
+              "angle": "选题、写稿一条龙，每周看后台数据调整栏目",
+              "short": "关注 2300 → 5100",
+              "source": "示例"
+            },
+            {
+              "project": "社团招新推文",
+              "step": "写稿",
+              "did": "把招新推文改成「三个问题帮你选社团」的问答体",
+              "result": "那一期阅读是平时的 3 倍",
+              "source": "示例"
+            }
+          ]
+        },
+        {
+          "name": "数据复盘",
+          "state": "todo",
+          "need": 8,
+          "weight": 8,
+          "task": "拆 3 个同类账号近 30 天的数据，做一页表，写 3 条结论：哪类内容涨得最快、为什么。",
+          "taskPoints": 30
+        },
+        {
+          "name": "短视频剪辑",
+          "state": "weak",
+          "need": 6,
+          "weight": 6,
+          "highlight": {
+            "project": "社团宣传视频",
+            "did": "剪过两条社团招新视频"
+          },
+          "note": "补一个视频链接或截图，这张卡就能点亮。"
+        }
+      ]
+    },
+    {
+      "name": "经验",
+      "icon": "data",
+      "cards": [
+        {
+          "name": "账号从 0 到 1",
+          "state": "lit",
+          "need": 7,
+          "weight": 7,
+          "highlight": {
+            "project": "自己的小红书账号",
+            "step": "定位、选题",
+            "did": "先拆 10 个同类账号，挑出能照着做的选题，每天一篇",
+            "result": "30 天涨粉 2000",
+            "source": "示例"
+          }
+        },
+        {
+          "name": "活动策划",
+          "state": "lit",
+          "need": 6,
+          "weight": 6,
+          "highlight": {
+            "project": "社团线下读书会",
+            "step": "选书、报名、现场",
+            "did": "报名表里加一题「你最想聊哪一章」，按答案分组",
+            "result": "来了 60 人，下一期报名 40 人",
+            "source": "示例",
+            "short": "来了 60 人"
+          }
+        }
+      ]
+    },
+    {
+      "name": "行业认知",
+      "icon": "book",
+      "cards": [
+        {
+          "name": "懂目标用户",
+          "state": "unclear",
+          "need": 6,
+          "weight": 6,
+          "highlight": {
+            "project": "小红书账号评论区整理",
+            "did": "整理过评论区的高频问题"
+          },
+          "note": "补一句：你从这些问题里看出了用户最在意什么？"
+        },
+        {
+          "name": "公司与行业研究",
+          "state": "todo",
+          "need": 5,
+          "weight": 5,
+          "task": "挑 1 家想去的公司，按「招聘要求背后，公司想解决什么问题」写一页分析。",
+          "taskPoints": 30
+        }
+      ]
+    },
+    {
+      "name": "个人资源",
+      "icon": "content",
+      "cards": [
+        {
+          "name": "自媒体账号",
+          "state": "lit",
+          "weight": 5,
+          "highlight": {
+            "project": "小红书求职经验账号",
+            "did": "写了 20 篇求职经验笔记",
+            "result": "单篇最高 3400 赞",
+            "source": "示例"
+          }
+        }
+      ]
+    },
+    {
+      "name": "软技能",
+      "icon": "talk",
+      "cards": [
+        {
+          "name": "沟通协作",
+          "state": "lit",
+          "need": 7,
+          "weight": 7,
+          "highlight": {
+            "project": "毕业季市集",
+            "step": "招摊主",
+            "did": "先拉 5 个熟人摊主，再拿他们的反馈去招别人",
+            "result": "18 个摊主，当天人流 800 多",
+            "source": "示例",
+            "short": "招到 18 个摊主"
+          }
+        },
+        {
+          "name": "学习能力",
+          "state": "todo",
+          "need": 5,
+          "weight": 5,
+          "task": "挑一个岗位要的新工具，两周学会，做一个小作品并写下学习过程。",
+          "taskPoints": 20
+        }
+      ]
+    },
+    {
+      "name": "个人背景",
+      "icon": "cap",
+      "cards": [
+        {
+          "name": "专业与证书",
+          "state": "lit",
+          "fact": true,
+          "weight": 2,
+          "highlight": {
+            "project": "教育背景",
+            "did": "汉语言文学专业",
+            "result": "普通话二级甲等",
+            "source": "示例"
+          }
+        }
+      ]
+    }
+  ]
+}
